@@ -13,3 +13,5 @@ dependencies:
     - debugpy
     - markdown
     - stats
+    - gmpy2
+    - Crypto
